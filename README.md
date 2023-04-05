@@ -95,19 +95,18 @@ cv2.destroyAllWindows()
 
 ### INPUT GRAYSCALE IMAGE AND COLOR IMAGE:
 
-![](o1.png)
-
-
+![Screenshot from 2023-04-05 13-10-23](https://user-images.githubusercontent.com/118889454/230014071-17ce2709-98f1-4881-a2f9-5955eee4e69e.png)
 
 ### HISTOGRAM OF GRAYSCALE IMAGE AND ANY CHANNEL OF COLOR IMAGE:
 
-![](o2.png)
+![Screenshot from 2023-04-05 13-11-47](https://user-images.githubusercontent.com/118889454/230014309-9cd3dfb2-dd32-4bde-a8b0-3913836c946f.png)
 
 
 ### HISTOGRAM  EQUALIZATION OF GRAYSCALE IMAGE :
 
-![](o3.png)
-![](p3.png)
+![Screenshot from 2023-04-05 13-13-11](https://user-images.githubusercontent.com/118889454/230014715-cc5b5490-c96e-41eb-8607-c8be483b3087.png)
+
+![Screenshot from 2023-04-05 13-13-11](https://user-images.githubusercontent.com/118889454/230014749-8dddd10a-d3a1-4738-9382-6bffa54810f0.png)
 
 
 ## Result: 
