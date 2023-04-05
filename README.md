@@ -8,6 +8,8 @@ To obtain a histogram for finding the frequency of pixels in an Image with pixel
 
 Anaconda - Python 3.7
 
+## Algorithm:
+
 ## Step1:
 
 Import the open cv2 library.
@@ -35,6 +37,7 @@ Program:
 
 
 ## Write your code to find the histogram of gray scale image and color image channels:
+
 
 ```python
 
@@ -92,19 +95,21 @@ cv2.destroyAllWindows()
 
 ### INPUT GRAYSCALE IMAGE AND COLOR IMAGE:
 
-![Uploading o1.png…]()
+![](o1.png)
 
 
 
 ### HISTOGRAM OF GRAYSCALE IMAGE AND ANY CHANNEL OF COLOR IMAGE:
 
+![](o2.png)
 
 
 ### HISTOGRAM  EQUALIZATION OF GRAYSCALE IMAGE :
 
-
-
+![](o3.png)
+![](p3.png)
 
 
 ## Result: 
+
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
