@@ -30,7 +30,7 @@ cv2.equalize() is used to transform the gray image to equalized form.
 
 print the program.
 
-Program:
+## Program:
 
 # Developed By: ABRIN NISHA A
 # Register Number: 212222230005
